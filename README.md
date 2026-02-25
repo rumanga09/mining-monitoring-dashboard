@@ -23,7 +23,8 @@ The dashboard is designed for **H+1 reporting**, meaning it presents yesterdayâ€
 
 ---
 ## ðŸ“· Dashboard Preview
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/05246fa3-7440-48da-99ff-b7a17ee90c82" />
+<img width="804" height="609" alt="Dashboard" src="https://github.com/user-attachments/assets/1f863db7-acbb-4635-98ed-a89e3f09dceb" />
+
 
 https://lookerstudio.google.com/reporting/fa39fa1f-57a2-430a-a044-fd883f47d707
 
